@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Domino",
+    "address": "Rakowiecka 4a",
+    "cuisine": "Pizza",
+    "website": "http://www.domino.pl",
+    "description": "Bo jest fajnie"
+  },
+  {
+    "name": "Biesiadowo",
+    "address": "Nowosolna 3",
+    "cuisine": "Domowe",
+    "website": "https://www.biesiadowo.pl",
+    "description": "Pyszna pizza"
+  },
+  {
+    "name": "Biesiadowo",
+    "address": "Nowosolna 3",
+    "cuisine": "Domowe",
+    "website": "https://www.biesiadowo.pl",
+    "description": "Pyszna pizza"
+  }
+]
